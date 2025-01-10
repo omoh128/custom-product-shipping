@@ -1,4 +1,3 @@
-// File: README.md
 # Custom Product Shipping for WooCommerce
 
 A WordPress plugin that allows setting custom shipping costs for individual products in WooCommerce.
