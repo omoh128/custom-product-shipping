@@ -1,4 +1,3 @@
-// File: src/API/RestController.php
 <?php
 namespace CustomShipping\API;
 
