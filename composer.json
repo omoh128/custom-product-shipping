@@ -1,0 +1,23 @@
+{
+    "name": "omomohagiogu/custom-product-shipping",
+    "description": "WooCommerce plugin for custom product shipping costs",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "CustomShipping\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CustomShipping\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0",
+        "mockery/mockery": "^1.4"
+    }
+}
